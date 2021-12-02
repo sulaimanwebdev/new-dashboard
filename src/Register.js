@@ -18,7 +18,7 @@ const Register = () => {
 
 
             <div className="actualFormCont">
-                <form action="/dashboard">
+                <form action="/renvenue">
                     <input type="email" required placeholder="Email" autoComplete="off"/>
                     <input type="password" required placeholder="Password" autoComplete="off"/>
                     <input type="password" required placeholder="Confirm password" autoComplete="off"/>
