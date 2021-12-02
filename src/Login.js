@@ -18,7 +18,7 @@ const Login = () => {
 
 
             <div className="actualFormCont">
-                <form action="/dashboard">
+                <form action="/renvenue">
                     <input type="email" required placeholder="Email" autoComplete="off"/>
                     <input type="password" required placeholder="Password" autoComplete="off"/>
                     <button type="submit">Login</button>
